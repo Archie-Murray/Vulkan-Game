@@ -1,140 +1,158 @@
 [
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glm-1.0.1 -external:IC:\\VulkanSDK\\1.3.280.0\\Include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanGame.dir\\src\\main.cpp.obj /FdCMakeFiles\\VulkanGame.dir\\ /FS -c D:\\Projects\\C++\\Vulkan-Game\\src\\main.cpp",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\src\\main.cpp",
-  "output": "CMakeFiles\\VulkanGame.dir\\src\\main.cpp.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glm-1.0.1 -external:IC:\\VulkanSDK\\1.3.280.0\\Include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanGame.dir\\main.cpp.obj /FdCMakeFiles\\VulkanGame.dir\\ /FS -c D:\\Projects\\C++\\Vulkan-Game\\main.cpp",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\main.cpp",
+  "output": "CMakeFiles\\VulkanGame.dir\\main.cpp.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\context.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\context.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\context.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\context.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glm-1.0.1 -external:IC:\\VulkanSDK\\1.3.280.0\\Include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanGame.dir\\Application.cpp.obj /FdCMakeFiles\\VulkanGame.dir\\ /FS -c D:\\Projects\\C++\\Vulkan-Game\\Application.cpp",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\Application.cpp",
+  "output": "CMakeFiles\\VulkanGame.dir\\Application.cpp.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\init.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\init.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\init.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\init.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\context.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\context.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\context.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\context.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\input.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\input.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\input.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\input.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\init.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\init.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\init.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\init.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\monitor.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\monitor.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\input.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\input.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\input.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\input.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\platform.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\platform.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\platform.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\platform.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\monitor.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\monitor.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\vulkan.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\vulkan.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\platform.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\platform.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\platform.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\platform.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\window.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\window.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\window.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\window.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\vulkan.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\vulkan.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\egl_context.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\egl_context.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\window.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\window.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\window.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\window.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\osmesa_context.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\osmesa_context.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\egl_context.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\egl_context.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\null_init.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\null_init.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\osmesa_context.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\osmesa_context.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\null_monitor.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\null_monitor.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\null_init.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\null_init.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\null_window.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\null_window.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\null_monitor.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\null_monitor.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\null_joystick.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\null_joystick.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\null_window.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\null_window.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\win32_module.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\win32_module.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\null_joystick.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\null_joystick.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\win32_time.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\win32_time.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\win32_module.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\win32_module.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\win32_thread.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\win32_thread.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\win32_time.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\win32_time.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\win32_init.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\win32_init.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\win32_thread.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\win32_thread.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\win32_joystick.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\win32_joystick.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\win32_init.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\win32_init.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\win32_monitor.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\win32_monitor.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\win32_joystick.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\win32_joystick.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\win32_window.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\win32_window.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\win32_monitor.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\win32_monitor.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foglfw-3.4\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj /Fdglfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\wgl_context.c",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glfw-3.4\\src\\wgl_context.c",
-  "output": "glfw-3.4\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\win32_window.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\win32_window.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj"
 },
 {
   "directory": "D:/Projects/C++/Vulkan-Game/build",
-  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Projects\\C++\\Vulkan-Game\\glm-1.0.1 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /Za /fp:precise /Foglm-1.0.1\\glm\\CMakeFiles\\glm.dir\\detail\\glm.cpp.obj /Fdglm-1.0.1\\glm\\CMakeFiles\\glm.dir\\glm.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\glm-1.0.1\\glm\\detail\\glm.cpp",
-  "file": "D:\\Projects\\C++\\Vulkan-Game\\glm-1.0.1\\glm\\detail\\glm.cpp",
-  "output": "glm-1.0.1\\glm\\CMakeFiles\\glm.dir\\detail\\glm.cpp.obj"
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\include -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src -ID:\\Projects\\C++\\Vulkan-Game\\build\\lib\\glfw-3.4\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Folib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj /Fdlib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\wgl_context.c",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glfw-3.4\\src\\wgl_context.c",
+  "output": "lib\\glfw-3.4\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj"
+},
+{
+  "directory": "D:/Projects/C++/Vulkan-Game/build",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Projects\\C++\\Vulkan-Game\\lib\\fmt-10.2.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /Folib\\fmt-10.2.1\\CMakeFiles\\fmt.dir\\src\\format.cc.obj /Fdfmtd.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\fmt-10.2.1\\src\\format.cc",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\fmt-10.2.1\\src\\format.cc",
+  "output": "lib\\fmt-10.2.1\\CMakeFiles\\fmt.dir\\src\\format.cc.obj"
+},
+{
+  "directory": "D:/Projects/C++/Vulkan-Game/build",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Projects\\C++\\Vulkan-Game\\lib\\fmt-10.2.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /Folib\\fmt-10.2.1\\CMakeFiles\\fmt.dir\\src\\os.cc.obj /Fdfmtd.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\fmt-10.2.1\\src\\os.cc",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\fmt-10.2.1\\src\\os.cc",
+  "output": "lib\\fmt-10.2.1\\CMakeFiles\\fmt.dir\\src\\os.cc.obj"
+},
+{
+  "directory": "D:/Projects/C++/Vulkan-Game/build",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Projects\\C++\\Vulkan-Game\\lib\\glm-1.0.1 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /Za /fp:precise /Folib\\glm-1.0.1\\glm\\CMakeFiles\\glm.dir\\detail\\glm.cpp.obj /Fdlib\\glm-1.0.1\\glm\\CMakeFiles\\glm.dir\\glm.pdb /FS -c D:\\Projects\\C++\\Vulkan-Game\\lib\\glm-1.0.1\\glm\\detail\\glm.cpp",
+  "file": "D:\\Projects\\C++\\Vulkan-Game\\lib\\glm-1.0.1\\glm\\detail\\glm.cpp",
+  "output": "lib\\glm-1.0.1\\glm\\CMakeFiles\\glm.dir\\detail\\glm.cpp.obj"
 }
 ]

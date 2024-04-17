@@ -9,6 +9,6 @@ add_subdirectory(lib/glfw-3.4)
 SET(GLM_TEST_ENABLE OFF CACHE BOOL "GLM Build unit tests")
 add_subdirectory(lib/glm-1.0.1 EXCLUDE_FROM_ALL)
 
-add_executable(${PROJECT_NAME} src/main.cpp)
+add_executable(${PROJECT_NAME} main.cpp)
 
 target_link_libraries(${PROJECT_NAME} glfw ${GLFW_LIBRARIES} Vulkan::Vulkan glm)
