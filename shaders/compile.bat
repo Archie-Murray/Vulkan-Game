@@ -10,6 +10,7 @@ echo.
 echo Compiling shader files:
 call %SHADER_COMPILER% -V %BASE_PATH%shader.vert -o %BASE_PATH%vert.spv
 call %SHADER_COMPILER% -V %BASE_PATH%shader.frag -o %BASE_PATH%frag.spv
+call %SHADER_COMPILER% -V %BASE_PATH%shader.comp -o %BASE_PATH%comp.spv
 exit /b ERRORLEVEL
 
 :COMPILED_SHADER_EXISTS
